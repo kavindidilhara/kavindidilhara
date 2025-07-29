@@ -1,4 +1,5 @@
 ## Hi there 👋
+![My GIF](https://i.imgur.com/Pj6jufT.gif)
 
 <!--
 **kavindidilhara/kavindidilhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
